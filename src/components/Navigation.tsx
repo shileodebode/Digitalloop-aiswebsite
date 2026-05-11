@@ -48,7 +48,7 @@ export function Navbar() {
         <div className="flex justify-between h-20 items-center">
           <Link to="/" className="flex items-center gap-2 group">
             <img 
-              src="/logo.png" 
+              src="./logo.png" 
               alt="Digital Loop" 
               className="h-10 w-auto object-contain transition-transform group-hover:scale-105" 
             />
@@ -130,7 +130,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           <div className="space-y-4">
             <Link to="/" className="inline-block bg-white p-2 rounded-lg">
-              <img src="/logo.png" alt="Digital Loop" className="h-8 w-auto object-contain" />
+              <img src="./logo.png" alt="Digital Loop" className="h-8 w-auto object-contain" />
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               Leading the shift towards an AI-literate Africa through world-class education and strategic consulting.
