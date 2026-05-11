@@ -1,0 +1,12 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- "digital" - font weight bold equivalent -->
+  <text x="0" y="42" font-family="Space Grotesk, Arial, sans-serif" font-size="34" font-weight="700" fill="#F15A29">digital</text>
+  
+  <!-- "LOOP" with loop icon integration -->
+  <text x="105" y="42" font-family="Space Grotesk, Arial, sans-serif" font-size="34" font-weight="800" fill="#1C8ACB">L</text>
+  
+  <!-- Infinity Loop Part -->
+  <path d="M135 32C135 28 138 25 142 25C146 25 149 28 149 32C149 36 146 39 142 39C138 39 132 32 132 32C132 32 126 25 122 25C118 25 115 28 115 32C115 36 118 39 122 39C126 39 129 36 129 32" stroke="#1C8ACB" stroke-width="4" stroke-linecap="round"/>
+  
+  <text x="150" y="42" font-family="Space Grotesk, Arial, sans-serif" font-size="34" font-weight="800" fill="#1C8ACB">OP</text>
+</svg>
